@@ -1,0 +1,86 @@
+body {
+    text-align: left;
+    background:#ffffff url("https://image.ibb.co/gekrRw/dark_embroidery.png") repeat;
+    color: white;
+}
+
+
+td:hover{
+    box-shadow: inset 0px 0px 2px 2px rgba(0,0,0,.5);
+}
+
+
+h1 {
+    font-family: Monoton;
+    font-size: 70px;
+    margin: 0.2em;
+    font-family: 'Fredoka One', cursive;
+    font-size: 40px;
+    text-align: center;
+    color: #a7a7a7;
+}
+
+h2 {
+    margin: 1em 0 0.25em;
+    font-size: 20px;
+    color: #a7a7a7;
+
+}
+
+
+td {
+    border: 1px solid #cecdca;
+}
+
+table {
+    border-collapse: collapse;
+    margin: 0 auto;
+    position: relative;
+    top: -390px;
+    left: 0px;
+}
+
+tr {
+    height: 5px;
+}
+
+td {
+    width: 20px;
+    height: 20px;
+    background-color: white;
+}
+
+input {
+    width: 6em;
+    border-radius: 10px;
+    border:none;
+    height:20px;
+}
+
+#inputs{
+    width: 280px;
+    text-align: center;
+    font-family: 'Amaranth', sans-serif;
+}
+
+
+
+#submit{
+    position: relative;
+    left: 90px;
+}
+
+
+#max{
+    text-align: left;
+    color: white;
+    font-size: 22px;
+}
+
+
+.inst{
+    text-align: left;
+    color:white;
+}
+
+
