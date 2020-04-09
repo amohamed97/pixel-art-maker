@@ -50,11 +50,16 @@ td {
     background-color: white;
 }
 
-input {
+input{
     width: 6em;
-    border-radius: 10px;
+    border-radius: 5px;
     border:none;
     height:20px;
+    padding: 2px;
+}
+
+#colorPicker{
+    padding: 0;
 }
 
 #inputs{
